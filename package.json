@@ -1,0 +1,15 @@
+{
+  "name": "good_students_app",
+  "version": "1.0.0",
+  "description": "app used for getting good students on basis of their marks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parseint": "^2.0.0",
+    "readline": "^1.3.0"
+  }
+}
